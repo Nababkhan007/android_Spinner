@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="select_spinner_txt">Please select your favorite flower from below spinner</string>
+</resources>
